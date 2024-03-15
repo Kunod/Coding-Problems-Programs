@@ -1,2 +1,2 @@
 # CodingProblems
-Simple coding problems i've created for fun.
+Simple coding problems/programs i've created for fun.
